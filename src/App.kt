@@ -69,6 +69,8 @@ fun main(args: Array<String>) {
 
     //dijkstra("Kruthika's abode", "craig's haunt", edges:List<Map<String, Any>>)
 
+    ///dijkstras function
+    ///print distance print path
     println ("Welcome to Doll Delivery, Fast and Fun!")
     println ("Distance =")
 }
