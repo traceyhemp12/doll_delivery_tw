@@ -74,7 +74,7 @@ dijkstra(
 }
 
 fun dijkstra (startingLocation: String, endLocation:String, edges:List<Map<String, Any>>): Map<String, Any>{
-    
+    //get vertices and edges
     return mapOf()
 }
 
